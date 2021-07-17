@@ -1,5 +1,5 @@
 # Hi there 👋
-## This is Ragul a self-thought developer passionate about cracking new ideas
+This is Ragul a self-thought developer passionate about cracking new ideas
 
 ## What I Do?
 - Web Design and development
