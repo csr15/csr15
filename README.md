@@ -1,5 +1,5 @@
-### Hi there 👋
-# This is Ragul a self-thought developer passionate about cracking new ideas
+# Hi there 👋
+## This is Ragul a self-thought developer passionate about cracking new ideas
 
 ## What I Do?
 - Web Design and development
@@ -35,6 +35,7 @@
 - [Stackoverflow](https://stackoverflow.com/users/10106311/ragul-cs)
 - [LinkedIn](https://www.linkedin.com/in/ragul-cs-57859118a/)
 
-⚡ Fun fact: I still have arearrs in my education but arearrs will not stop my learning🚀
+## Fun fact
+I still have arearrs in my education but arearrs will not stop my learning🚀
 
 
