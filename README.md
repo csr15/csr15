@@ -7,25 +7,27 @@ This is Ragul a self-thought developer passionate about cracking new ideas
 - UI/UX
 
 ## Languages and Technologies I know
-- HTML5
-- CSS3
-- Bootstrap4
-- SCSS
-- Javascript (ES5 & ES6)
+- JavaScript
+- NodeJS
 - React JS
+- Data Structures and Algorithms
 - React Native
-- Node JS
 - Express JS
+- Hapi.JS
+- PostgresSQL
 - MongoDB
+- Redis
 - Firebase
-- Chrome Debugging Tool
-- Github
-- Netlify
+- CSS3
+- SaaS
+- SCSS
+- HTML5
+- Git
 - Heroku
-- Analytics
-- Admob
+- Netlify
+- Admon
 - Adobe XD
-- Figma
+- Figma 
 
 ## Hobbies
 - 🎮 Gaming
