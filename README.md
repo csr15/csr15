@@ -6,9 +6,9 @@ distributed systems, and high performance applications.
 Senior Software Engineer at SurveySparrow\
 4+ years of experience in frontend and backend engineering
 
-Portfolio: https://ragulcs.netlify.app
-LinkedIn: https://linkedin.com/in/ragulcs
-GitHub: https://github.com/csr15
+- Portfolio: https://ragulcs.netlify.app
+- LinkedIn: https://linkedin.com/in/ragulcs
+- GitHub: https://github.com/csr15
 
 ------------------------------------------------------------------------
 
@@ -140,7 +140,7 @@ Tech: React, NodeJS, MongoDB
 
 ### Filmly
 
-OTT themed web platform for browsing movies.
+An OTT-themed web platform for browsing movies.
 
 Tech: React, NodeJS, PostgreSQL, Redis, Elasticsearch
 
@@ -153,18 +153,6 @@ Tech: MERN stack, React Native
 ### WhatsApp Web Clone
 
 Real-time chat application built using React and Firebase.
-
-------------------------------------------------------------------------
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csr15&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csr15&layout=compact)
-
-## Contribution Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=csr15)
 
 ------------------------------------------------------------------------
 
