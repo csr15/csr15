@@ -4,24 +4,24 @@ Full Stack Software Engineer building scalable web platforms,
 distributed systems, and high performance applications.
 
 Senior Software Engineer at SurveySparrow\
-4+ years experience in frontend and backend engineering
+4+ years of experience in frontend and backend engineering
 
-Portfolio: https://ragulcs.netlify.app\
-LinkedIn: https://linkedin.com/in/ragulcs\
+Portfolio: https://ragulcs.netlify.app
+LinkedIn: https://linkedin.com/in/ragulcs
 GitHub: https://github.com/csr15
 
 ------------------------------------------------------------------------
 
 ## About Me
 
-I am a full stack engineer focused on building scalable applications
+I am a full-stack engineer focused on building scalable applications
 across frontend and backend layers. My work involves designing
-maintainable architectures, optimizing performance, and building
+maintainable architectures, optimising performance, and building
 reliable APIs and data systems.
 
 Areas I enjoy working on:
 
--   Full stack system design
+-   Full-stack system design
 -   Frontend architecture
 -   Backend services and APIs
 -   Database optimization
@@ -79,9 +79,9 @@ Areas I enjoy working on:
 -   MongoDB
 -   Redis
 -   Database indexing strategies
--   Query optimization
--   Cursor based pagination
--   Data modeling
+-   Query optimisation
+-   Cursor-based pagination
+-   Data modelling
 -   Cache invalidation strategies
 
 ------------------------------------------------------------------------
@@ -89,13 +89,13 @@ Areas I enjoy working on:
 ### Architecture and Engineering
 
 -   High Level Design
--   Low Level Design
+-   Low-Level Design
 -   Design Patterns
 -   Micro Frontend Architecture
 -   Distributed Systems Thinking
 -   Code Splitting
 -   Lazy Loading
--   Memory Optimization
+-   Memory Optimisation
 -   Performance Profiling
 -   Caching Strategies
 
@@ -109,22 +109,22 @@ Frontend Engineering
 
 -   Designed scalable state management architecture using Redux Toolkit
     and RTK Query
--   Implemented server state synchronization using TanStack Query
+-   Implemented server state synchronisation using TanStack Query
 -   Built micro frontend compatible modules
--   Optimized Webpack builds using code splitting and lazy loading
+-   Optimised Webpack builds using code splitting and lazy loading
 
 Backend Engineering
 
 -   Designed backend services using NodeJS and Express
 -   Built Email Share microservice using Builder, Strategy, and Template
     patterns
--   Designed REST APIs for high volume sharing workflows
+-   Designed REST APIs for high-volume sharing workflows
 -   Implemented batching strategies for large data processing
 
-Database and Performance Optimization
+Database and Performance Optimisation
 
--   Optimized PostgreSQL queries using indexing
--   Implemented cursor based pagination
+-   Optimised PostgreSQL queries using indexing
+-   Implemented cursor-based pagination
 -   Designed Redis caching strategies
 -   Improved API performance through query tuning
 
@@ -134,7 +134,7 @@ Database and Performance Optimization
 
 ### ShareXP
 
-Full stack MERN application for sharing personal growth experiences.
+Full-stack MERN application for sharing personal growth experiences.
 
 Tech: React, NodeJS, MongoDB
 
@@ -152,17 +152,19 @@ Tech: MERN stack, React Native
 
 ### WhatsApp Web Clone
 
-Real time chat application built using React and Firebase.
+Real-time chat application built using React and Firebase.
 
 ------------------------------------------------------------------------
 
 ## GitHub Stats
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=csr15&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csr15&show_icons=true)
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csr15&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csr15&layout=compact)
+
+## Contribution Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=csr15)
 
 ------------------------------------------------------------------------
 
